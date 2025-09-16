@@ -19,5 +19,6 @@ python calculator.py
 Here's how the calculator works:
 
 
-![Calculator Demo](https://github.com/yvandiAI/yusuf_beginner_python_projects/blob/main/calculator_demo.png?raw=true)
+## 📸 Screenshot
 
+![Calculator Demo](https://raw.githubusercontent.com/yvandiAI/yusuf_beginner_python_projects/main/docs/screenshots/calculator_demo.png)
