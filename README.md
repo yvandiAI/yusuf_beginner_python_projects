@@ -21,5 +21,5 @@ Here's how the calculator works:
 
 ## 📸 Screenshot
 
-![Calculator Demo](https://github.com/yvandiAI/yusuf_beginner_python_projects/blob/main/calculator_demo.png?raw=true)
+![Calculator Demo](https://raw.githubusercontent.com/yvandiAI/yusuf_beginner_python_projects/main/calculator_demo.png)
 
